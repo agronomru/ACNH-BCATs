@@ -39,13 +39,13 @@ Before we begin, we need right tools to backup savegame, restore BCAT and set sy
 ### 2. Create a savegame backup
 This is the **most important** step! Nobody wants to lose his progress.
 
-1. Open the Homebrew menu and start the JKSV, that we have installed in the first step.
+1. Open the Homebrew menu and start the [JKSV](https://github.com/J-D-K/JKSV/releases), that we have installed in the first step.
    ![in-hb-menu](resources/JKSV-savegame-backup/in-hb-menu.png)
 2. Navigate and open **Device Saves**.  
    ![device-saves](resources/JKSV-savegame-backup/device-saves.png)
 3. Now choose the game you want to backup.
 4. ![device-saves-choose-game](resources/JKSV-savegame-backup/device-saves-choose-game.png)
-5. Create a new savegame backup by choosing New and pressing the A-Button.
+5. Create a new savegame backup by choosing New and pressing the **A**-Button.
    ![device-saves-game](resources/JKSV-savegame-backup/device-saves-game.png)
 6. You have created a savegame from your game. I recommend you to make a backup copy of this save to your PC and maybe even better to a cloud service like Dropbox, Google Drive etc.  
    You can find the folder with your savegame on your sd card under:  
@@ -59,7 +59,7 @@ Now we have to inject event BCAT files into the game.
 1. Navigate to [releases](https://github.com/agronomru/ACNH-BCATs/releases) and download latest BCAT files release. It should be a zip file.  
    Note: The dump contains BCATs for the current and any previous events!  
    ![device-saves-game](resources/bcat-injection/bcat-download.png)
-2. Unzip/extract the zip archive, you should have a folder now.
+2. Unzip/extract the zip archive, you should have a folder now.  
    ![archive-to-folder](resources/bcat-injection/archive-to-folder.png)
 3. Copy the folder to the directory `/JKSV/Animal Crossing  New Horizons/` on your sd card.  
    It should looks like this:  
@@ -74,14 +74,38 @@ Now we have to inject event BCAT files into the game.
    ![bcat-restore](resources/bcat-injection/bcat-restore.png)
 8. Check again, that you're in BCAT section and restoring the right BCAT dump and press and hold A to confirm.  
    ![bcat-restore-confirm](resources/bcat-injection/bcat-restore-confirm.png)
-9.  Keep pressing the A-Button until it's done.
+9.  Keep pressing the **A**-Button until it's done.  
    ![bcat-restore-confirm-pressing](resources/bcat-injection/bcat-restore-confirm-pressing.png)
 10. As soon you're back to the previous screen, the injection is done.  
     Continue with the next step.
 
 ### 4. Sync time with switch-time homebrew
+Now the last but not least step is to set the time sync flag with the [switch-time](https://github.com/3096/switch-time/releases) homebrew.
+
+1. Open System Settings, navigate to the bottom, select `System`->`Date and Time`.  
+   ![system-settings-date-time](resources/sync-time/system-settings-date-time.png)
+2. Make sure that `Synchronise Clock via Internet` is `On` and press **A** to confirm.  
+   ![synchronise-clock](resources/sync-time/synchronise-clock.png)
+3. Navigate back to home menu, enter the hbmenu and start the switch-time homebrew.  
+   ![hbmenu-switch-time](resources/sync-time/hbmenu-switch-time.png)
+4. In SwitchTime you can set the time however you like, if you're done with your changes, just press the **A**-Button to confirm. 
+   ![switch-time](resources/sync-time/switch-time.png)
+5. `Successfully set NetworkSystemClock`, if you see this message, anything worked correct, if not try again.
+   ![switch-time-set](resources/sync-time/switch-time-set.png)
+6. We are done here, close the Homebrew by pressing "+" or just press the "Home" button.
 
 ### 5. Profit
+If you have followed the guide, at this point you're ready to start the game and verify that the Event is activate for you.  
+**Attention!** All special events are time limited, that means that the activation will only work, if the Switch time is set to the time of the event.  
+For example: You can activate and play the International Museum Day event only between 18th and 31st May.  
+You can find more information about special event on the internet.  
+
+Now let start the game and see if you made anything right.  
+You should see a letter behind the Version number, this latter depends on the event.  
+e.g. International Museum Day is 1.2.0 **b**  
+![switch-time-set](resources/event-activated.png)
+
+
 
 ## Credits
 Name | Reason
