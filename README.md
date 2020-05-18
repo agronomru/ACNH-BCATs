@@ -2,12 +2,11 @@
 If you're new, please follow this guide step by step to prevent undesirable results, like losing your game progress.
 
 ## Index
-- [ACNH BCAT activation guide](#acnh-bcat-activation-guide)
-  - [Index](#index)
-  - [Guide](#guide)
-    - [1. Download JKSV and switch-time](#1-download-jksv-and-switch-time)
-    - [2. Create a savegame backup](#2-create-a-savegame-backup)
-  - [Credits](#credits)
+* [Index](#index)
+* [Guide](#guide)
+  * [1. Download JKSV and switch-time](#1-download-jksv-and-switch-time)
+  * [2. Create a savegame backup](#2-create-a-savegame-backup)
+* [Credits](#credits)
 
 ## Guide
 
