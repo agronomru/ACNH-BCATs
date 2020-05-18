@@ -17,14 +17,14 @@ Before we begin, we need right tools for backup savegame, restore BCAT and set s
    The current version is from 4th April, but you should always prefer the latest one.
    
 2. To download a file from a GitHub release, first of all expand "Assets", then in the most cases there is an nro file or an archive like a zip. In this case we need only the **JKSV.nro**.  
-   ![JKSV-release]()
+   ![JKSV-release](resources/tools/JKSV-release.png)
 3. The same is for the [switch-time](https://github.com/3096/switch-time/releases) homebrew.
    Download the nro from the latest release.  
-    ![switch-time-release]()
+    ![switch-time-release](resources/tools/switch-time-release.png)
 4. Now copy **JKSV.nro** and **switch-time.nro** to the switch directory on your sd card.  
    I'm using FTP for it and it looks like this.  
-   ![sdcard-root]()  
-   ![switch-directory]()
+   ![sdcard-root](resources/tools/sdcard-root.png)  
+   ![switch-directory](resources/tools/switch-directory.png)
 
 ### 2. Create a savegame backup
 
