@@ -10,6 +10,8 @@ If you're new, please follow this guide step by step to prevent undesirable resu
   * [3. Download and inject BCAT files](#3-download-and-inject-bcat-files)
   * [4. Sync time with switch-time homebrew](#4-Sync-time-with-switch-time-homebrew)
   * [5. Profit](#5-profit)
+* [FAQ](#faq)
+  * [Do I need my own passphrase.bin?](#do-i-need-my-own-passphrase-bin)
 * [Credits](#credits)
 
 ## Guide
@@ -106,7 +108,11 @@ e.g. International Museum Day is 1.2.0 **b**
 ![switch-time-set](resources/event-activated.png)  
 Have fun playing!
 
+### FAQ
 
+### Do I need my own passphrase.bin?  
+No, you don't need to do anything with the **passphrase.bin** as long you're using my release!  
+If you restore only the *directories* folder, your passphrase.bin will be deleted and automatically recreated on the next start of the game.
 
 ## Credits
 Name | Reason
