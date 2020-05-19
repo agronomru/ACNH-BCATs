@@ -11,7 +11,7 @@ If you're new, please follow this guide step by step to prevent undesirable resu
   * [4. Sync time with switch-time homebrew](#4-Sync-time-with-switch-time-homebrew)
   * [5. Profit](#5-profit)
 * [FAQ](#faq)
-  * [Do I need my own passphrase.bin?](#do-i-need-my-own-passphrase-bin)
+  * [Do I need my own passphrase.bin?](#do-i-need-my-own-passphrasebin)
 * [Credits](#credits)
 
 ## Guide
