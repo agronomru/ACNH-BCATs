@@ -108,7 +108,7 @@ e.g. International Museum Day is 1.2.0 **b**
 ![switch-time-set](resources/event-activated.png)  
 Have fun playing!
 
-### FAQ
+## FAQ
 
 ### Do I need my own passphrase.bin?  
 No, you don't need to do anything with the **passphrase.bin** as long you're using my release!  
