@@ -1,0 +1,4 @@
+* text=auto
+* text eol=lf
+
+resources/** binary
