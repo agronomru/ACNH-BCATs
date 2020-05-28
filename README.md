@@ -4,7 +4,7 @@ If you're new, please follow this guide step by step to prevent undesirable resu
 ## Index
 * [Index](#index)
 * [Guide](#guide)
-  * [Summery](#summery)
+  * [Summary](#summary)
   * [1. Download JKSV and switch-time](#1-download-jksv-and-switch-time)
   * [2. Create a savegame backup](#2-create-a-savegame-backup)
   * [3. Download and inject BCAT files](#3-download-and-inject-bcat-files)
@@ -15,7 +15,7 @@ If you're new, please follow this guide step by step to prevent undesirable resu
 * [Credits](#credits)
 
 ## Guide
-### Summery
+### Summary
 BCATs are needed to activate some special, time limited events in game.  
 The guide shows you how to backup your game progress and inject right BCAT files into your game.  
 Once you know how it works, you can repeat all steps for each new BCAT coming out.
