@@ -59,9 +59,10 @@ This is the **most important** step! Nobody wants to lose his progress.
 Now we have to inject event BCAT files into the game.
 
 1. Navigate to [releases](https://github.com/agronomru/ACNH-BCATs/releases) and download latest BCAT files release. It should be a zip file.  
-   Note: The dump contains BCATs for the current and any previous events!  
+   Note: The dump contains BCATs for the current/next and all previous events!  
    ![device-saves-game](resources/bcat-injection/bcat-download.png)
 2. Unzip/extract the zip archive, you should have a folder now.  
+   Note: Folder's name can be different, just make sure that inside the folder is at least another folder called `directories`.  
    ![archive-to-folder](resources/bcat-injection/archive-to-folder.png)
 3. Copy the folder to the directory `/JKSV/Animal Crossing  New Horizons/` on your sd card.  
    It should looks like this:  
