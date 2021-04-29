@@ -22,7 +22,7 @@ Once you know how it works, you can repeat all steps for each new BCAT coming ou
 
 
 ### 1. Download JKSV and switch-time
-Before we begin, we need right tools to backup savegame, restore BCAT and set synced time.
+Before we begin, we need right tools to backup savegame, restore BCAT and set synced time.  
 1. Download latest [JKSV](https://github.com/J-D-K/JKSV/releases) version from the [release page](https://github.com/J-D-K/JKSV/releases).  
    The current version is from 4th April, but you should always prefer the latest one.
    
@@ -41,23 +41,23 @@ Before we begin, we need right tools to backup savegame, restore BCAT and set sy
 ### 2. Create a savegame backup
 This is the **most important** step! Nobody wants to lose his progress.
 
-1. Open the Homebrew menu and start the [JKSV](https://github.com/J-D-K/JKSV/releases), that we have installed in the first step.
+1. Open the Homebrew menu and start the [JKSV](https://github.com/J-D-K/JKSV/releases), that we have installed in the first step.  
    ![in-hb-menu](resources/JKSV-savegame-backup/in-hb-menu.png)
 2. Navigate and open **Device Saves**.  
    ![device-saves](resources/JKSV-savegame-backup/device-saves.png)
 3. Now choose the game you want to backup.  
-   ![device-saves-choose-game](resources/JKSV-savegame-backup/device-saves-choose-game.png)
+   ![device-saves-choose-game](resources/JKSV-savegame-backup/device-saves-choose-game.png)  
 4. Create a new savegame backup by choosing New and pressing the **A**-Button.
    ![device-saves-game](resources/JKSV-savegame-backup/device-saves-game.png)
 5. You have created a savegame from your game. I recommend you to make a backup copy of this save to your PC and maybe even better to a cloud service like Dropbox, Google Drive etc.  
    You can find the folder with your savegame on your sd card under:  
-    `/JKSV/Animal Crossing  New Horizons/`, the whole folder named `Device Saves - (date @ time)` is your savegame.
+    `/JKSV/Animal Crossing  New Horizons/`, the whole folder named `Device Saves - (date @ time)` is your savegame.  
    ![device-saves-new-backup](resources/JKSV-savegame-backup/device-saves-new-backup.png)
 6. We are done here, if something bad happens, you can always restore this savegame file to restore your progress.
 
 ### 3. Download and inject BCAT files
 Now we have to inject event BCAT files into the game.
-
+  
 1. Navigate to [releases](https://github.com/agronomru/ACNH-BCATs/releases) and download latest BCAT files release. It should be a zip file.  
    Note: The dump contains BCATs for the current/next and all previous events!  
    ![device-saves-game](resources/bcat-injection/bcat-download.png)
@@ -75,9 +75,9 @@ Now we have to inject event BCAT files into the game.
    ![bcat-menu](resources/bcat-injection/bcat-menu.png)
 7. Then select the BCAT that you have downloaded before and press **Y**-Button to restore it.  
    ![bcat-restore](resources/bcat-injection/bcat-restore.png)
-8. Check again, that you're in BCAT section and restoring the right BCAT dump and press and hold **A** to confirm.  
+8. Check again, that you're in BCAT section and restoring the right BCAT dump. Press **A** to confirm.  
    ![bcat-restore-confirm](resources/bcat-injection/bcat-restore-confirm.png)
-10. As soon the "Confirm" dialog is gone, the injection is done.  
+9.  As soon the "Confirm" dialog is gone, the injection is done.  
     Continue with the next step.
 
 ### 4. Sync time with switch-time homebrew
@@ -89,10 +89,10 @@ Now the last but not least step is to set the time sync flag with the [switch-ti
    ![synchronise-clock](resources/sync-time/synchronise-clock.png)
 3. Navigate back to the Home menu, enter the hbmenu and start the **switch-time** homebrew.  
    ![hbmenu-switch-time](resources/sync-time/hbmenu-switch-time.png)
-4. In the SwitchTime you can set the time however you like and if you're done with your changes, just press the **A**-Button to confirm. 
-   ![switch-time](resources/sync-time/switch-time.png)
-5. `Successfully set NetworkSystemClock`, if you see this message, anything worked correct, if not try again.
-   ![switch-time-set](resources/sync-time/switch-time-set.png)
+4. In the SwitchTime you can set the time however you like and if you're done with your changes, just press the **A**-Button to confirm.  
+   ![switch-time](resources/sync-time/switch-time.png)  
+5. `Successfully set NetworkSystemClock`, if you see this message, anything worked correct, if not try again.  
+   ![switch-time-set](resources/sync-time/switch-time-set.png)  
 6. We are done here, close the Homebrew by pressing "+" or just press the "Home" button.
 
 ### 5. Profit
