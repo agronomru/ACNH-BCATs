@@ -77,8 +77,6 @@ Now we have to inject event BCAT files into the game.
    ![bcat-restore](resources/bcat-injection/bcat-restore.png)
 8. Check again, that you're in BCAT section and restoring the right BCAT dump and press and hold **A** to confirm.  
    ![bcat-restore-confirm](resources/bcat-injection/bcat-restore-confirm.png)
-9.  Keep holding the **A**-Button until it's done.  
-   ![bcat-restore-confirm-pressing](resources/bcat-injection/bcat-restore-confirm-pressing.png)
 10. As soon the "Confirm" dialog is gone, the injection is done.  
     Continue with the next step.
 
@@ -105,7 +103,7 @@ You can find more information about special event on the internet.
 
 Now let start the game and see if you made anything right.  
 You should see a letter behind the Version number, this latter depends on the event.  
-e.g. International Museum Day is 1.2.0 **b**  
+e.g. June Bride event, in June 2021 it should show 1.10.0 **a**  
 ![switch-time-set](resources/event-activated.png)  
 Have fun playing!
 
