@@ -118,4 +118,4 @@ Name | Reason
 ---- | ---------
 Igromanru | This guide and latest BCAT files for International Museum Day and Wedding Season
 Eevee | Dumped May Day BCAT 
-Alree | Latest v1.6-v1.10 BCATs
+Alree | Latest v1.6-v1.11 BCATs
