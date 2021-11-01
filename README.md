@@ -70,6 +70,7 @@ Now we have to inject event BCAT files into the game.
 4. Now insert back the sd card, close FTP or whatever, then open JKSV in hbmenu.  
    ![in-hb-menu](resources/JKSV-savegame-backup/in-hb-menu.png)
 5. This time navigate to the **BCAT** section.  
+   (If you don't see the game in BCAT menu, you need to start the game once, close it and open JKSV again)
    ![on-sdcard](resources/bcat-injection/jksv-bcat-section.png)
 6. Double check that you're in **BCAT** menu.  
    ![bcat-menu](resources/bcat-injection/bcat-menu.png)
