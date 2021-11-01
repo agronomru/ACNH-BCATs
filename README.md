@@ -5,6 +5,7 @@ If you're new, please follow this guide step by step to prevent undesirable resu
 * [Index](#index)
 * [Guide](#guide)
   * [Summary](#summary)
+  * [Note](#note)
   * [1. Download JKSV and switch-time](#1-download-jksv-and-switch-time)
   * [2. Create a savegame backup](#2-create-a-savegame-backup)
   * [3. Download and inject BCAT files](#3-download-and-inject-bcat-files)
@@ -20,6 +21,8 @@ BCATs are needed to activate some special, time limited events in game.
 The guide shows you how to backup your game progress and inject right BCAT files into your game.  
 Once you know how it works, you can repeat all steps for each new BCAT coming out.
 
+## Note 
+This guide is made for the [Atmosphère](https://github.com/Atmosphere-NX/Atmosphere) CFW. No guarantee that homebrews used here will work on any other CFW. 
 
 ### 1. Download JKSV and switch-time
 Before we begin, we need right tools to backup savegame, restore BCAT and set synced time.  
